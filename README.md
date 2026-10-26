@@ -2,7 +2,7 @@
 
 번역/로컬라이제이션 SaaS GloZ에서 2021년 6월부터 웹·모바일 프론트엔드를 만들고 있는 6년 차 프로덕트 엔지니어입니다. 2025년 5월부터는 프론트엔드를 단독으로 맡아 4개 앱 모노레포의 설계와 구현을 책임지고 있습니다.
 
-- 포트폴리오: https://issol-portfolio-delta.vercel.app
+- 포트폴리오: https://issol.vercel.app
 - 회사 코드는 비공개 조직 저장소에 있고, 그 기여는 [@LerielKim](https://github.com/LerielKim) 프로필에 표시됩니다.
 - 개인 앱 저장소는 비공개이며, 이 계정의 기여 그래프에 함께 집계됩니다.
 
